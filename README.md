@@ -82,6 +82,20 @@ The database consists of four main tables: Teams, Players, Games, and PlayerStat
 
 ![Database Schema](Database_Schema.png)
 
+## Sample Query Results
+
+### Top 3 Players by Total Points
+
+![Top Players](top_players.png)
+
+### Total Points by Team
+
+![Team Points](team_points.png)
+
+### Average Rebounds by Team
+
+![Average Rebounds](average_rebounds.png)
+
 ## What I Learned
 
 Through this project, I gained practical experience working with relational databases and writing SQL queries for data analysis. I practiced using joins, aggregations, subqueries, views, triggers, and data manipulation commands to work with sports league data.
