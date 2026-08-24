@@ -76,6 +76,12 @@ The queries also helped in understanding how player-level statistics can be comb
 * MySQL Workbench
 * SQL
 
+## Database Schema
+
+The database consists of four main tables: Teams, Players, Games, and PlayerStats.
+
+![Database Schema](Database_Schema.png)
+
 ## What I Learned
 
 Through this project, I gained practical experience working with relational databases and writing SQL queries for data analysis. I practiced using joins, aggregations, subqueries, views, triggers, and data manipulation commands to work with sports league data.
